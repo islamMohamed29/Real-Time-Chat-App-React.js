@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Real-Time-Chat-App</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://socialify.git.ci/islamMohamed29/Real-Time-Chat-App-React.js/image?font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
 
-## Available Scripts
+<p id="description">Real-Time-Chat-App Build With (React.js + Socket.io + styled-components)</p>
 
-In the project directory, you can run:
+<h2>Project Screenshots:</h2>
 
-### `npm start`
+<img src="https://i.ibb.co/349BRMV/bandicam-2024-03-07-18-17-06-009.jpg" alt="project-screenshot" width="250" height="250/">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="https://i.ibb.co/27fCk66/bandicam-2024-03-07-18-17-45-801.jpg" alt="project-screenshot" width="250" height="250/">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://i.ibb.co/cbfn04F/bandicam-2024-03-07-18-19-18-988.jpg" alt="project-screenshot" width="500" height="500/">
 
-### `npm test`
+<img src="https://i.ibb.co/2Mg12W9/bandicam-2024-03-07-18-19-29-969.jpg" alt="project-screenshot" width="250" height="250/">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://i.ibb.co/0KDCxsR/bandicam-2024-03-07-18-19-36-777.jpg" alt="project-screenshot" width="250" height="250/">
 
-### `npm run build`
+<img src="https://i.ibb.co/8K5xSRs/bandicam-2024-03-07-18-21-55-510.jpg" alt="project-screenshot" width="750" height="750/">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  
+  
+<h2>🧐 Features</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Here're some of the project's best features:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*   Real-Time
+*   Emoji
+*   Authentication
 
-### `npm run eject`
+<h2>🛠️ Installation Steps:</h2>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p>1. install dependencies</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p>2. start project</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+npm start
+```
 
-## Learn More
+  
+  
+<h2>💻 Built with</h2>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Technologies used in the project:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*   React.js
+*   Socket.io
+*   Styled-Components
